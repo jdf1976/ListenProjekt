@@ -1,0 +1,1 @@
+Das wir ein privates kleine Projekt um in die Materie von PHP5 und Symfony rein zu kommen
